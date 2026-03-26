@@ -15,7 +15,7 @@
 	url = https://github.com/periscop/candl.git
 [submodule "clan"]
 	path = clan
-	url = https://github.com/periscop/clan.git
+	url = https://github.com/Fley14/clan.git
 [submodule "openscop"]
 	path = openscop
 	url = https://github.com/periscop/openscop.git
